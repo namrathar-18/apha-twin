@@ -1,8 +1,9 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "alpha-twin",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": "Namratha R",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
